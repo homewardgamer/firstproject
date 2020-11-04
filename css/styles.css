@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Itim', cursive;
+  color: #40514E;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Calligraffitti', cursive;
+  font-size: 562.5%;
+  font-stretch: expanded;
+  margin: 50px auto auto 0;
+  color: #41aea9;
+}
+
+h2 {
+  font-family: 'Syne Mono', monospace;
+  font-size: 2.5rem;
+  color: #41aea9;
+}
+
+h3 {
+  font-family: 'Syne Mono', monospace;
+  color: #41aea9;
+}
+
+.top_container {
+  position: relative;
+  padding-top: 100px;
+  margin: 0;
+  background-color: #e8ffff;
+}
+
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding:50px;
+}
+
+.topcloud {
+  position: absolute;
+  top: 20px;
+  right: 300px;
+}
+
+.bottomcloud {
+  position: absolute;
+  top: 250px;
+  left: 100px;
+}
+
+.mountain {
+
+}
+
+.profiles {
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+
+.skillspic1 {
+  float: left;
+  margin-right: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.skillspic2 {
+  float: right;
+  margin-left: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+  line-height: 2.4;
+}
+
+hr {
+  border-top: 5px dotted grey;
+  width: 10%;
+  height: 0px;
+}
+
+.btn {
+  margin-top: 30px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 0;
+  line-height: 0;
+  color: #FFFFFF;
+  font-family: Verdana;
+  width: 153px;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #41AEA9;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.footer-link{
+  margin:20px;
+  color: #11999E;
+  text-decoration: none;
+  font-size:20px;
+}
+.endname{
+  margin-top: 50px;
+   color:#EAF6F6;
+}
+.footer-link:hover{
+  color:#EAF6F6;
+}
+.program{
+  margin-bottom:10px;
+}
